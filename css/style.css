@@ -58,11 +58,11 @@ p {
     display: flex;
 }
 
-.column-left {
+.header-column-left {
     flex: 50%;
 }
 
-.column-right {
+.header-column-right {
     flex: 50%;
     text-align: right;
 }
