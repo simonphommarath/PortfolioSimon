@@ -51,6 +51,12 @@ p {
     grid-row: 1;
 }
 
+.skill-section {
+    margin: 0 0 35px;
+    padding: 0 0 25px;
+    border-bottom: 1px dashed #CCC;
+}
+
 /* Header section */
 
 a{
