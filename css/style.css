@@ -57,6 +57,13 @@ p {
     border-bottom: 1px dashed #CCC;
 }
 
+h2 {
+    font-size: 30px;
+    font-style: normal;
+    text-decoration: none;
+    color: #2e3133;
+}
+
 /* Header section */
 
 a{
@@ -73,7 +80,7 @@ a:hover {
 
 header {
     align-items: center;
-    padding: 3rem 0;
+    padding: 1rem 0;
 }
 
 .header-title{
