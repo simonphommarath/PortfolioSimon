@@ -5,6 +5,14 @@ section {
     background: #fff;
 }
 
+.information {
+    height: 500px;
+}
+
+.information-2 {
+    height: 700px;
+}
+
 body {
     font-family: 'Lora', serif;
     font-size: 14px;
@@ -21,6 +29,10 @@ body {
     padding-left: 15px;
     padding-right: 15px;
     display: block;
+    align-content: center;
+    position: relative;
+    top:50%;
+    transform: translateY(-50%);
 }
 
 p {
@@ -61,6 +73,10 @@ p {
 
 .b-grey {
     background-color: grey;
+}
+
+.b-lgrey {
+    background-color: lightgray;
 }
 
 .t-white{
